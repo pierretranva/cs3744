@@ -1,0 +1,8 @@
+The main file to start the backend is called index.js
+The port number is 3001
+
+How to run the server:
+1. First cs into the backend folder
+2. Use the command "npm install" in the terminal to install all the node modules needed
+3. Use the command "npm run start" to start the backend server
+4. The express backend server is running on localhost at port 3001
